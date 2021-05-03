@@ -1,0 +1,13 @@
+.nav {
+  width: 100vw;
+  height: 10vh;
+  background: rgba(3, 28, 71, 0.8);
+}
+
+.qlogo {
+  position: absolute;
+  left: 0;
+  top: 1.5vh;
+  width: 200px;
+  margin-left: 40px;
+}
