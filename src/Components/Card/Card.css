@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 200px;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.clogo {
+  width: 80px;
+}
+.title {
+  font-size: 2rem;
+}
+.price {
+  font-size: 3rem;
+  padding: 10px;
+  font-weight: 600;
+}
